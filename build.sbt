@@ -6,7 +6,7 @@ name := "scala-ss-demo"
 
 version := "0.1"
 
-scalaVersion := "2.11.5"
+scalaVersion := "2.12.4"
 
 libraryDependencies ++= Seq(
 	//"org.mockito" % "mockito-core" % "1.9.0" % "test"
